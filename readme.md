@@ -1,4 +1,4 @@
-this repository was created for auth0 ticket. 
+This repository was created for auth0 ticket. 
 
 To run this app you should follow these steps: 
 - execute `yarn install`
